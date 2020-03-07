@@ -1,0 +1,31 @@
+{
+	"details":{
+		"image":"Lighthouse.jpg",
+		"name":"Jyoshna",
+		"email":"jyoshnabagadi01@gmail.com",
+		"number":"7095066052",
+		"address":"vskp"
+	},
+		"career":{
+		"info":"to be an architect"
+	},
+	"education":[
+		{
+			"institute":"VIEW",
+			"degree":"btech",
+			"percentage":"76%",
+			"passout":"2018-2022"
+		},
+	{
+			"institute":"sri chaitanya",
+			"degree":"inter",
+			"percentage":"92.5%",
+			"passout":"2016-2018"
+		},
+	{
+			"institute":"mansas english medium school",
+			"degree":"ssc",
+			"percentage":"83%",
+			"passout":"2015-2016"
+		}]
+}
